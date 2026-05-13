@@ -69,14 +69,6 @@ Compared EWMA and GARCH model behavior during periods of elevated market volatil
 
 ---
 
-## Value at Risk (VaR)
-
-_Add image here_
-
-![VaR Analysis](images/var_analysis.png)
-
----
-
 ## VaR Backtesting
 
 <img width="1008" height="547" alt="image" src="https://github.com/user-attachments/assets/f0ab8e23-7bd3-4cdd-bc64-51173fa37292" />
